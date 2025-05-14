@@ -1,0 +1,16 @@
+<types>
+  <!--com.shloklabs.netcool-->
+  <!--com.mayvel.myScheduler-->
+  <type class="com.mayvel.myScheduler.BMySchedulerDevice" name="MySchedulerDevice"/>
+  <type class="com.mayvel.myScheduler.BMySchedulerDeviceFolder" name="MySchedulerDeviceFolder"/>
+  <type class="com.mayvel.myScheduler.BMySchedulerNetwork" name="MySchedulerNetwork"/>
+  <type class="com.mayvel.myScheduler.BSNGroup" name="SNGroup"/>
+  <type class="com.mayvel.myScheduler.BMyWeeklySchedule" name="MyWeeklySchedule"/>
+  <!--com.shloklabs.netcool.point-->
+  <!--com.mayvel.myScheduler.point-->
+  <type class="com.mayvel.myScheduler.point.BMySchedulerPointDeviceExt" name="MySchedulerPointDeviceExt"/>
+  <type class="com.mayvel.myScheduler.point.BMySchedulerPointDiscoveryLeaf" name="MySchedulerPointDiscoveryLeaf"/>
+  <type class="com.mayvel.myScheduler.point.BMySchedulerPointDiscoveryPreferences" name="MySchedulerPointDiscoveryPreferences"/>
+  <type class="com.mayvel.myScheduler.point.BMySchedulerPointFolder" name="MySchedulerPointFolder"/>
+  <type class="com.mayvel.myScheduler.point.BMySchedulerProxyExt" name="MySchedulerProxyExt"/>
+</types>
